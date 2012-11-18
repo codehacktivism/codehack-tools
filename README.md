@@ -4,9 +4,16 @@ First repo found with the following request on the explore / search github page 
 
 What I do :
  - find a project in github (I adapt the search request)
+ - clone it on codehacktivism organization
  - checkout the project
  - do some changes (perhaps something better or cleaner)
+ - git push
  - do a pull request
 
 All steps are timeboxed.
- 
+
+My last timebox :
+step 1 (5 minutes) : find a project
+step 2 (15 minutes) : test project and read the source code
+step 3 (30 minutes) : try to do something
+extra time (10 minutes) : finish the stuff and PR

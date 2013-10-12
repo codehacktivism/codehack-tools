@@ -17,3 +17,9 @@ step 1 (5 minutes) : find a project
 step 2 (15 minutes) : test project and read the source code
 step 3 (30 minutes) : try to do something
 extra time (10 minutes) : finish the stuff and PR
+
+Pull Request on command line :
+
+ - Install hub 
+ - hub pull-request -b <user>:<branch> -h <my_user>:<my_branch>
+
